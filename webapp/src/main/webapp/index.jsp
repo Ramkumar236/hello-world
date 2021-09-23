@@ -1,2 +1,2 @@
-<h1>HI Iam CI/CD Pipleline demo! </h1>
+<h1>HI Iam CI/CD Pipleline demo example! </h1>
 
